@@ -50,7 +50,7 @@ def reformatlat(AnalysedDF):
 def reformatTexthaouver(AnalysedDF):
     textnumber = (AnalysedDF['DHB2015_Name'].tolist())
     City = (AnalysedDF['DHB'].tolist())
-    return ['Number Of cases in ' + str(City[index]) + ' is ' + str(x) for index, x in enumerate(textnumber)]
+    return ['Number Of cases in ' + str(City[index]) + ' DHB  is ' + str(x) for index, x in enumerate(textnumber)]
 
 
 def reformatTextnumber(AnalysedDF):
@@ -64,9 +64,19 @@ def checkNumberSize(AnalysedDF):
 
 def convrtArray(OldArray):
     if len(OldArray) > 1:
-        x = np.array([min(OldArray), max(OldArray) / 3.2, max(OldArray) / 2.1, max(OldArray)])
-        y = np.array([1, 2.5, 6, 7.5])
-        f = interp1d(x, y, kind='cubic')
+        if max(OldArray)>min(OldArray):
+            x = np.array([min(OldArray),min(OldArray)+((max(OldArray)-min(OldArray)))/3.0 ,
+                          min(OldArray)+2*((max(OldArray)-min(OldArray)))/3.0, max(OldArray)])
+
+            y = np.array([1, 2.5, 3.5, 5.5])
+            f = interp1d(x, y, kind='cubic')
+        else:
+            x = np.array([min(OldArray), min(OldArray) + ((max(OldArray) - min(OldArray))) / 3.0,
+                          min(OldArray) + 2 * ((max(OldArray) - min(OldArray))) / 3.0, max(OldArray)])
+
+            y = np.array([1, 1, 1, 1])
+            f = interp1d(x, y, kind='linear')
+
     else:
         x = np.array([min(OldArray), max(OldArray)])
         y = x
@@ -227,7 +237,7 @@ app.layout = html.Div([
                 id='Bubble-graph',
                 figure={
                     'data': data,
-                    '   layout': layout
+                    'layout': layout
                 }
             )
             , ]
@@ -331,10 +341,11 @@ def update_figure(Day):
             )
         ]
 
-    return {
+    figure = {
         'data': data,
         'layout': layout
     }
+    return  figure
 
 
 # app.css.append_css({
