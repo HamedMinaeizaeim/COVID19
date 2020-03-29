@@ -63,7 +63,7 @@ def checkNumberSize(AnalysedDF):
 
 def convrtArray(OldArray):
     if len(OldArray) > 1:
-        x = np.array([min(OldArray), max(OldArray) / 4.0, max(OldArray) / 2.0, max(OldArray)])
+        x = np.array([min(OldArray), max(OldArray) / 3.2, max(OldArray) / 2.1, max(OldArray)])
         y = np.array([1, 5, 8, 10])
         f = interp1d(x, y, kind='cubic')
     else:
