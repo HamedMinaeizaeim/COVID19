@@ -103,7 +103,7 @@ trace1 = go.Bar(x=x, y=y,
                     line=dict(color='rgba(255, 0, 0, 1.0)', width=1)
                 ))
 
-mapbox_access_token = 'pk.eyJ1IjoiY2hyaWRkeXAiLCJhIjoiY2oyY2M4YW55MDF1YjMzbzhmemIzb290NiJ9.sT6pncHLXLgytVEj21q43A'
+mapbox_access_token = 'pk.eyJ1IjoiaGFtZWRtaW5hZWkiLCJhIjoiY2s3d3Bhemk0MDR3bDNrbG5wOHJqNmpjcSJ9.sTFiN0dxyLO7GgXJpqsoOQ'
 if not mapbox_access_token:
     raise RuntimeError("Mapbox key not specified! Edit this file and add it.")
 
