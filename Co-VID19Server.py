@@ -10,7 +10,8 @@ from scipy.interpolate import interp1d
 import numpy as np
 from dash.dependencies import Input, Output
 
-app = dash.Dash()
+app = dash.Dash(__name__)
+server = app.server
 
 NumberOfInfected_text = '''   
 
@@ -342,4 +343,4 @@ def update_figure(Day):
 # })
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True)
