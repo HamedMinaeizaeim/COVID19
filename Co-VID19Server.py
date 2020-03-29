@@ -21,7 +21,7 @@ NumberOfHospitalised_text = '''
 
 
 def readCSV():
-    FilePath = r"C:\Users\HamedM.MANAIA.000\PycharmProjects\COVID2019\InputData.csv"
+    FilePath = r"https://github.com/HamedMinaeizaeim/COVID19/blob/Test2/InputData.csv"
     return pd.read_csv(FilePath)
 
 
