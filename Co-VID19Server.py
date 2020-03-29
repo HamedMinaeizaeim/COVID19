@@ -11,7 +11,7 @@ import numpy as np
 from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__)
-server = app.server
+#server = app.server
 
 NumberOfInfected_text = '''   
 
@@ -83,8 +83,7 @@ b = convrtArray(Numbersize)
 #
 DfAnalysed2 = Df.groupby('Report Date').agg({'DHB2015_Name': 'count'})
 DfAnalysed2['DateColumn'] = DfAnalysed2.index
-print(DfAnalysed2)
-DfAnalysed2['DateColumn'] = pd.to_datetime(DfAnalysed2['DateColumn'], format='%d/%m/%Y')
+DfAnalysed2['DateColumn'] = pd.to_datetime(DfAnalysed2['DateColumn'])
 DfAnalysed2 = DfAnalysed2.sort_values(by=['DateColumn'], ascending=False)
 indexAll = DfAnalysed2.index.tolist()
 
@@ -93,11 +92,11 @@ for index in indexAll:
     DfAnalysed2.loc[index, 'DHB2015_Name'] = DF_Filter['DHB2015_Name'].sum()
 
 x = DfAnalysed2['DHB2015_Name'].tolist()
-print(x)
+
 
 DfAnalysed2['DateColumn'] = DfAnalysed2['DateColumn'].dt.strftime('%d/%m')
 y = DfAnalysed2['DateColumn'].tolist()
-print(y)
+
 trace1 = go.Bar(x=x, y=y,
                 orientation='h',
                 marker=dict(
@@ -194,7 +193,7 @@ app.layout = html.Div([
             html.Div(
                 [
                     html.H3(children='Number of confirmed cases'),
-                    html.H2(children='20', style={'color': colors['textColor2']})
+                    html.H2(children='514', style={'color': colors['textColor2']})
                 ],
                 style={'width': '100%', 'display': 'inline-block', 'textAlign': 'center', 'padding': 0,
                        'border-style': 'solid ', 'vertical-align': 'top', 'backgroundColor': colors['Section'],
@@ -203,15 +202,15 @@ app.layout = html.Div([
             html.Div(
                 [
                     html.H3(children='Number of recovered cases '),
-                    html.H2(children='20', style={'color': colors['textColor3']})
+                    html.H2(children='54', style={'color': colors['textColor3']})
                 ],
                 style={'width': '100%', 'display': 'inline-block', 'textAlign': 'center', 'padding': 0,
                        'border-style': 'solid ', 'vertical-align': 'top', 'backgroundColor': colors['Section'],
                        'color': colors['text'], 'margin-top': 3, 'margin-bottom': 3}
             )
             , html.Div(
-                [html.H3(children='Number of community transmission cases '),
-                 html.H2(children='2', style={'color': colors['textColor1']})
+                [html.H3(children='Number of cases in hospital'),
+                 html.H2(children='9', style={'color': colors['textColor1']})
                  ],
                 style={'width': '100%', 'display': 'inline-block', 'textAlign': 'center', 'padding': 0,
                        'border-style': ' solid ', 'vertical-align': 'bottom', 'backgroundColor': colors['Section'],
@@ -282,7 +281,7 @@ app.layout = html.Div([
     Output('Bubble-graph', 'figure'),
     [Input('Day-slider', 'value')])
 def update_figure(Day):
-    print(Day)
+
     AnalysedDF = filterandGreoup(Df, Day)
     Numbersize = checkNumberSize(AnalysedDF)
     if len(Numbersize) == 1:
