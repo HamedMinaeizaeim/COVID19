@@ -28,6 +28,7 @@ def readCSV():
 
 def filterandGreoup(Df, FilterDay):
     Df = Df[Df['Day'] <= FilterDay]
+    Df=Df.sort_values(by=['Day'],ascending=False )
     AnalysedDF = Df.groupby('DHB').agg({'Report Date': lambda x: x.iloc[0],
                                         'DHB2015_Name': 'count',
                                         'LON': lambda x: x.iloc[0],
