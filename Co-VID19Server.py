@@ -51,7 +51,8 @@ def reformatlat(AnalysedDF):
 def reformatTexthaouver(AnalysedDF):
     textnumber = (AnalysedDF['DHB2015_Name'].tolist())
     City = (AnalysedDF['DHB'].tolist())
-    return ['Number Of cases in ' + str(City[index]) + ' DHB  is ' + str(x) for index, x in enumerate(textnumber)]
+    Date = (AnalysedDF['Report Date'].tolist())
+    return ['Number Of cases in ' + str(City[index]) + ' DHB at '+str(Date[index])+'  is ' + str(x) for index, x in enumerate(textnumber)]
 
 
 def reformatTextnumber(AnalysedDF):
