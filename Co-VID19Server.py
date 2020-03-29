@@ -84,7 +84,7 @@ b = convrtArray(Numbersize)
 DfAnalysed2 = Df.groupby('Report Date').agg({'DHB2015_Name': 'count'})
 DfAnalysed2['DateColumn'] = DfAnalysed2.index
 print(DfAnalysed2)
-DfAnalysed2['DateColumn'] = pd.to_datetime(DfAnalysed2['DateColumn'])
+DfAnalysed2['DateColumn'] = pd.to_datetime(DfAnalysed2['DateColumn'], format='%d/%m/%Y')
 DfAnalysed2 = DfAnalysed2.sort_values(by=['DateColumn'], ascending=False)
 indexAll = DfAnalysed2.index.tolist()
 
