@@ -65,7 +65,7 @@ def checkNumberSize(AnalysedDF):
 def convrtArray(OldArray):
     if len(OldArray) > 1:
         x = np.array([min(OldArray), max(OldArray) / 3.2, max(OldArray) / 2.1, max(OldArray)])
-        y = np.array([1, 5, 8, 10])
+        y = np.array([1, 2.5, 6, 7.5])
         f = interp1d(x, y, kind='cubic')
     else:
         x = np.array([min(OldArray), max(OldArray)])
@@ -83,7 +83,7 @@ b = convrtArray(Numbersize)
 #
 DfAnalysed2 = Df.groupby('Report Date').agg({'DHB2015_Name': 'count'})
 DfAnalysed2['DateColumn'] = DfAnalysed2.index
-DfAnalysed2['DateColumn'] = pd.to_datetime(DfAnalysed2['DateColumn'])
+DfAnalysed2['DateColumn'] = pd.to_datetime(DfAnalysed2['DateColumn'], format='%d/%m/%Y')
 DfAnalysed2 = DfAnalysed2.sort_values(by=['DateColumn'], ascending=False)
 indexAll = DfAnalysed2.index.tolist()
 
