@@ -361,6 +361,15 @@ app.layout = html.Div([
               'vertical-align': 'middle', 'textAlign': 'right', 'backgroundColor': colors['Section'],
               'color': colors['text'], 'textAlign': 'center', 'margin-right': 10, 'margin-left': 10}
     )
+    ,
+    html.Div([html.P(children='This dashboard was created based on New Zealand Ministry of Health covid-19 data.', style={'fontSize': 9}),
+              html.P(children='The dashboard was created by Hamed Minaeizaeim (hamed.minaei@gmail.com) ', style={'fontSize': 9}),
+              html.P(children='© 2020 Hamed Minaeizaeim.  All rights reserved.', style={'fontSize': 9})
+    ], style={'width': '100%', 'display': 'inline-block', 'padding': 10, 'border-style': 'solid ',
+              'vertical-align': 'middle', 'textAlign': 'left', 'backgroundColor': colors['Section'],
+              'color': colors['text'], 'textAlign': 'center', 'margin-right': 10, 'margin-left': 10}
+    ),
+
     ], style={'backgroundColor': colors['background'], 'color': colors['text']}
 
 
