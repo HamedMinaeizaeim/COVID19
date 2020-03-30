@@ -126,7 +126,6 @@ TraceMale = go.Bar(x=DfAnalysed4.columns.tolist(), y=DfAnalysed4.loc['Male',:], 
 TraceFemale = go.Bar(x=DfAnalysed4.columns.tolist(), y=DfAnalysed4.loc['Female',:],  name='FeMale')
 
 
-print(DfAnalysed4)
 
 
 for index in indexAll:
@@ -138,7 +137,6 @@ x = DfAnalysed2['DHB2015_Name'].tolist()
 
 DfAnalysed2['DateColumn'] = DfAnalysed2['DateColumn'].dt.strftime('%d/%m')
 y = DfAnalysed2['DateColumn'].tolist()
-
 
 
 trace1 = go.Bar(x=x, y=y,
@@ -207,7 +205,8 @@ colors = {
     'textColor1': '#e32e2e',
     'textColor2': '#fab91c',
     'textColor3': '#0545d8',
-    'textColor4': '#ffffff'
+    'textColor4': '#ffffff',
+    'White': '#ffffff'
 }
 
 app.layout = html.Div([
@@ -311,13 +310,13 @@ app.layout = html.Div([
                   min=Df['Day'].min(),
                   max=Df['Day'].max(),
                   value=Df['Day'].max(),
-                  marks={str(Day): str(Day) + ' day' for Day in Df['Day'].unique()},
+                  marks={str(int(Day)): str(int(Day))+' day' for Day in Df['Day'].unique()},
                   step=None
               )
-              ], style={'width': '96%', 'display': 'inline-block', 'padding': 10, 'border-style': 'solid ',
-                        'vertical-align': 'middle', 'textAlign': 'right', 'backgroundColor': colors['textColor4'],
-                        'color': colors['text'], 'textAlign': 'center', 'margin-right': 10, 'margin-left': 10,
-                        'margin-top': 10, 'margin-bottom': 10}
+              ],  style = {'width': '96%','display': 'inline-block', 'padding': 10, 'border-style': 'solid ',
+                               'vertical-align': 'middle', 'textAlign': 'right', 'backgroundColor': colors['White'],
+                         'color': colors['background'],'textAlign': 'center', 'margin-right': 10, 'margin-left': 10,
+                'margin-top': 10, 'margin-bottom': 10}
              ),
     html.Div([
              html.Div([
