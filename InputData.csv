@@ -1,590 +1,709 @@
 Report Date,Sex,Age group,DHB,Day,DHB2015_Name,LON,LAT
-29/03/2020,Male,50 to 59,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Male,20 to 29,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,20 to 29,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Female,50 to 59,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,40 to 49,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Male,20 to 29,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,30 to 39,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Male,40 to 49,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,40 to 49,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Male,40 to 49,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,30 to 39,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Male,40 to 49,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Male,30 to 39,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,50 to 59,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Male,40 to 49,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Female,40 to 49,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Female,20 to 29,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Male,20 to 29,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Female,60 to 69,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Female,50 to 59,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Male,20 to 29,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Male,15 to 19,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Male,50 to 59,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Male,20 to 29,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Male,40 to 49,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Female,15 to 19,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Female,15 to 19,Waitemata,33,Waitemata,174.5462036,-36.56459673
-29/03/2020,Female,50 to 59,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Female,15 to 19,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Male,50 to 59,Waikato,33,Waikato,175.3568636,-38.04961628
-29/03/2020,Female,20 to 29,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Female,40 to 49,Capital and Coast,33,Capital and Coast,174.8998275,-41.08856224
-29/03/2020,Female,20 to 29,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Male,40 to 49,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,,20 to 29,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Female,20 to 29,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Male,40 to 49,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Female,10 to 14,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Female,20 to 29,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Female,20 to 29,Capital and Coast,33,Capital and Coast,174.8998275,-41.08856224
-29/03/2020,Female,30 to 39,Capital and Coast,33,Capital and Coast,174.8998275,-41.08856224
-29/03/2020,Male,70+,Capital and Coast,33,Capital and Coast,174.8998275,-41.08856224
-29/03/2020,Female,20 to 29,Capital and Coast,33,Capital and Coast,174.8998275,-41.08856224
-29/03/2020,Male,30 to 39,Capital and Coast,33,Capital and Coast,174.8998275,-41.08856224
-29/03/2020,Female,40 to 49,Auckland,33,Auckland,174.763336,-36.848461
-29/03/2020,Male,60 to 69,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Female,30 to 39,MidCentral,33,MidCentral,175.8099323,-40.38224196
-29/03/2020,Female,20 to 29,Nelson Marlborough,33,Nelson Marlborough,173.1365596,-41.36159701
-29/03/2020,Female,20 to 29,Northland,33,Northland,173.8300954,-35.49463014
-29/03/2020,Female,40 to 49,Northland,33,Northland,173.8300954,-35.49463014
-29/03/2020,Female,40 to 49,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Male,60 to 69,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Female,20 to 29,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Female,40 to 49,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Male,40 to 49,Southern,33,Southern,168.7904915,-45.4408859
-29/03/2020,Male,20 to 29,Counties Manukau,33,Counties Manukau,174.9299786,-37.18674183
-29/03/2020,Male,20 to 29,Southern,33,Southern,168.7904915,-45.4408859
-28/03/2020,Female,40 to 49,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Female,20 to 29,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Male,20 to 29,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Male,30 to 39,Nelson Marlborough,32,Nelson Marlborough,173.1365596,-41.36159701
-28/03/2020,Female,20 to 29,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Male,40 to 49,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Male,20 to 29,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Male,60 to 69,South Canterbury,32,South Canterbury,170.6559497,-44.14680819
-28/03/2020,Female,30 to 39,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Female,20 to 29,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Female,50 to 59,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Female,50 to 59,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Female,60 to 69,Southern,32,Southern,168.7904915,-45.4408859
-28/03/2020,Female,30 to 39,Waikato,32,Waikato,175.3568636,-38.04961628
-28/03/2020,Female,70+,Waikato,32,Waikato,175.3568636,-38.04961628
-28/03/2020,Female,10 to 14,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,01 to 04,Waikato,32,Waikato,175.3568636,-38.04961628
-28/03/2020,Male,40 to 49,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,40 to 49,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,20 to 29,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,20 to 29,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,50 to 59,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Male,20 to 29,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,15 to 19,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Male,70+,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,20 to 29,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Male,40 to 49,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,10 to 14,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Female,15 to 19,Waitemata,32,Waitemata,174.5462036,-36.56459673
-28/03/2020,Male,70+,Hawke's Bay,32,Hawke's Bay,176.795629,-39.41115147
-28/03/2020,Female,20 to 29,Lakes,32,Lakes,176.1228225,-38.65360467
-28/03/2020,Female,20 to 29,Canterbury,32,Canterbury,172.639847,-43.41254864
-28/03/2020,Female,30 to 39,Counties Manukau,32,Counties Manukau,174.9299786,-37.18674183
-28/03/2020,Female,70+,Bay of Plenty,32,Bay of Plenty,176.919997,-38.09074918
-28/03/2020,Female,40 to 49,Counties Manukau,32,Counties Manukau,174.9299786,-37.18674183
-28/03/2020,Female,15 to 19,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,10 to 14,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,30 to 39,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Male,30 to 39,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,20 to 29,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Male,60 to 69,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,10 to 14,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,20 to 29,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,50 to 59,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Male,60 to 69,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Male,60 to 69,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,30 to 39,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,60 to 69,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,30 to 39,Auckland,32,Auckland,174.763336,-36.848461
-28/03/2020,Female,20 to 29,Bay of Plenty,32,Bay of Plenty,176.919997,-38.09074918
-28/03/2020,Female,50 to 59,Capital and Coast,32,Capital and Coast,174.8998275,-41.08856224
-28/03/2020,Female,40 to 49,Canterbury,32,Canterbury,172.639847,-43.41254864
-28/03/2020,Female,50 to 59,Counties Manukau,32,Counties Manukau,174.9299786,-37.18674183
-28/03/2020,Female,20 to 29,Capital and Coast,32,Capital and Coast,174.8998275,-41.08856224
-28/03/2020,Female,20 to 29,Capital and Coast,32,Capital and Coast,174.8998275,-41.08856224
-28/03/2020,Female,40 to 49,Capital and Coast,32,Capital and Coast,174.8998275,-41.08856224
-28/03/2020,Female,15 to 19,Capital and Coast,32,Capital and Coast,174.8998275,-41.08856224
-28/03/2020,Male,40 to 49,Counties Manukau,32,Counties Manukau,174.9299786,-37.18674183
-28/03/2020,Male,20 to 29,Canterbury,32,Canterbury,172.639847,-43.41254864
-28/03/2020,Female,20 to 29,Canterbury,32,Canterbury,172.639847,-43.41254864
-28/03/2020,Male,30 to 39,Canterbury,32,Canterbury,172.639847,-43.41254864
-28/03/2020,Male,40 to 49,Canterbury,32,Canterbury,172.639847,-43.41254864
-27/03/2020,Male,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,20 to 29,Taranaki,31,Taranaki,174.4683977,-39.31457554
-27/03/2020,Female,30 to 39,Taranaki,31,Taranaki,174.4683977,-39.31457554
-27/03/2020,Female,15 to 19,Taranaki,31,Taranaki,174.4683977,-39.31457554
-27/03/2020,Male,40 to 49,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,30 to 39,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,40 to 49,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Female,60 to 69,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,,Unknown,Taranaki,31,Taranaki,174.4683977,-39.31457554
-27/03/2020,Male,20 to 29,Whanganui,31,Whanganui,175.5208861,-39.60845102
-27/03/2020,Female,40 to 49,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Male,20 to 29,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Female,30 to 39,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Female,20 to 29,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Male,50 to 59,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Female,30 to 39,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Female,40 to 49,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Male,60 to 69,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Female,15 to 19,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Male,15 to 19,Waikato,31,Waikato,175.3568636,-38.04961628
-27/03/2020,Male,20 to 29,Waitemata,31,Waitemata,174.5462036,-36.56459673
-27/03/2020,Male,30 to 39,Waitemata,31,Waitemata,174.5462036,-36.56459673
-27/03/2020,Male,20 to 29,Whanganui,31,Whanganui,175.5208861,-39.60845102
-27/03/2020,Male,20 to 29,Whanganui,31,Whanganui,175.5208861,-39.60845102
-27/03/2020,Female,20 to 29,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,70+,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,70+,Bay of Plenty,31,Bay of Plenty,176.919997,-38.09074918
-27/03/2020,Female,40 to 49,Counties Manukau,31,Counties Manukau,174.9299786,-37.18674183
-27/03/2020,Male,50 to 59,Capital and Coast,31,Capital and Coast,174.8998275,-41.08856224
-27/03/2020,Female,50 to 59,Capital and Coast,31,Capital and Coast,174.8998275,-41.08856224
-27/03/2020,Male,20 to 29,Capital and Coast,31,Capital and Coast,174.8998275,-41.08856224
-27/03/2020,,40 to 49,Canterbury,31,Canterbury,172.639847,-43.41254864
-27/03/2020,Female,20 to 29,Bay of Plenty,31,Bay of Plenty,176.919997,-38.09074918
-27/03/2020,Female,20 to 29,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Female,30 to 39,Counties Manukau,31,Counties Manukau,174.9299786,-37.18674183
-27/03/2020,Male,40 to 49,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Female,70+,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Female,60 to 69,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Male,40 to 49,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Female,15 to 19,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Female,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,30 to 39,Counties Manukau,31,Counties Manukau,174.9299786,-37.18674183
-27/03/2020,Male,60 to 69,Canterbury,31,Canterbury,172.639847,-43.41254864
-27/03/2020,Female,50 to 59,Counties Manukau,31,Counties Manukau,174.9299786,-37.18674183
-27/03/2020,Female,20 to 29,South Canterbury,31,South Canterbury,170.6559497,-44.14680819
-27/03/2020,Male,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Female,20 to 29,Hawke's Bay,31,Hawke's Bay,176.795629,-39.41115147
-27/03/2020,Male,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,50 to 59,Southern,31,Southern,168.7904915,-45.4408859
-27/03/2020,Male,20 to 29,Auckland,31,Auckland,174.763336,-36.848461
-27/03/2020,Female,40 to 49,South Canterbury,31,South Canterbury,170.6559497,-44.14680819
-27/03/2020,Female,01 to 04,South Canterbury,31,South Canterbury,170.6559497,-44.14680819
-27/03/2020,Female,60 to 69,South Canterbury,31,South Canterbury,170.6559497,-44.14680819
-27/03/2020,Female,60 to 69,MidCentral,31,MidCentral,175.8099323,-40.38224196
-27/03/2020,Female,50 to 59,MidCentral,31,MidCentral,175.8099323,-40.38224196
-27/03/2020,Female,60 to 69,Hutt Valley,31,Hutt Valley,175.0495401,-41.16139515
-27/03/2020,Male,60 to 69,Hutt Valley,31,Hutt Valley,175.0495401,-41.16139515
-27/03/2020,Female,30 to 39,Hutt Valley,31,Hutt Valley,175.0495401,-41.16139515
-26/03/2020,Male,50 to 59,Tairawhiti,30,Tairawhiti,177.9207662,-38.28141802
-26/03/2020,Male,50 to 59,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Male,20 to 29,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Male,40 to 49,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Female,60 to 69,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Male,70+,Taranaki,30,Taranaki,174.4683977,-39.31457554
-26/03/2020,Male,50 to 59,Taranaki,30,Taranaki,174.4683977,-39.31457554
-26/03/2020,Female,20 to 29,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Female,70+,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Female,40 to 49,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Female,60 to 69,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Male,50 to 59,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Male,20 to 29,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Male,70+,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Female,20 to 29,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Male,60 to 69,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Female,70+,West Coast,30,West Coast,170.8716463,-42.7948379
-26/03/2020,Female,20 to 29,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Male,50 to 59,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Male,60 to 69,Lakes,30,Lakes,176.1228225,-38.65360467
-26/03/2020,Male,20 to 29,West Coast,30,West Coast,170.8716463,-42.7948379
-26/03/2020,Female,40 to 49,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Female,30 to 39,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Female,20 to 29,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Female,20 to 29,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Male,50 to 59,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Female,15 to 19,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Female,40 to 49,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Female,20 to 29,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Male,40 to 49,Waitemata,30,Waitemata,174.5462036,-36.56459673
-26/03/2020,Male,70+,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Male,60 to 69,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Female,70+,Waikato,30,Waikato,175.3568636,-38.04961628
-26/03/2020,Female,20 to 29,Northland,30,Northland,173.8300954,-35.49463014
-26/03/2020,Male,50 to 59,Southern,30,Southern,168.7904915,-45.4408859
-26/03/2020,Female,50 to 59,Hutt Valley,30,Hutt Valley,175.0495401,-41.16139515
-26/03/2020,Female,30 to 39,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Female,30 to 39,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,60 to 69,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,20 to 29,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,20 to 29,Bay of Plenty,30,Bay of Plenty,176.919997,-38.09074918
-26/03/2020,Male,20 to 29,Bay of Plenty,30,Bay of Plenty,176.919997,-38.09074918
-26/03/2020,Female,15 to 19,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Female,30 to 39,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Male,50 to 59,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,20 to 29,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Male,40 to 49,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Female,30 to 39,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Female,40 to 49,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Male,70+,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Female,30 to 39,Hutt Valley,30,Hutt Valley,175.0495401,-41.16139515
-26/03/2020,Male,20 to 29,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Male,20 to 29,Auckland,30,Auckland,174.763336,-36.848461
-26/03/2020,Male,20 to 29,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Male,30 to 39,Counties Manukau,30,Counties Manukau,174.9299786,-37.18674183
-26/03/2020,Female,40 to 49,Hutt Valley,30,Hutt Valley,175.0495401,-41.16139515
-26/03/2020,Female,30 to 39,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,20 to 29,Hutt Valley,30,Hutt Valley,175.0495401,-41.16139515
-26/03/2020,Male,70+,Hawke's Bay,30,Hawke's Bay,176.795629,-39.41115147
-26/03/2020,Male,50 to 59,Hawke's Bay,30,Hawke's Bay,176.795629,-39.41115147
-26/03/2020,Female,20 to 29,Hawke's Bay,30,Hawke's Bay,176.795629,-39.41115147
-26/03/2020,Female,60 to 69,Counties Manukau,30,Counties Manukau,174.9299786,-37.18674183
-26/03/2020,Female,60 to 69,Hawke's Bay,30,Hawke's Bay,176.795629,-39.41115147
-26/03/2020,Female,50 to 59,Counties Manukau,30,Counties Manukau,174.9299786,-37.18674183
-26/03/2020,Female,20 to 29,Capital and Coast,30,Capital and Coast,174.8998275,-41.08856224
-26/03/2020,Male,40 to 49,Capital and Coast,30,Capital and Coast,174.8998275,-41.08856224
-26/03/2020,Male,30 to 39,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,01 to 04,Canterbury,30,Canterbury,172.639847,-43.41254864
-26/03/2020,Female,30 to 39,Canterbury,30,Canterbury,172.639847,-43.41254864
-25/03/2020,Male,30 to 39,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,30 to 39,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,20 to 29,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,40 to 49,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,40 to 49,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,60 to 69,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,60 to 69,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,40 to 49,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,60 to 69,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,40 to 49,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Female,20 to 29,Taranaki,29,Taranaki,174.4683977,-39.31457554
-25/03/2020,Male,60 to 69,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Male,50 to 59,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Female,30 to 39,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Female,30 to 39,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Male,20 to 29,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Male,20 to 29,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Male,60 to 69,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,60 to 69,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Male,00 to 01,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Female,20 to 29,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,20 to 29,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,70+,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Female,20 to 29,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Male,50 to 59,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Male,30 to 39,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Female,30 to 39,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Female,60 to 69,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Female,30 to 39,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Male,40 to 49,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Male,70+,Waitemata,29,Waitemata,174.5462036,-36.56459673
-25/03/2020,Female,30 to 39,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,50 to 59,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,15 to 19,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,70+,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,40 to 49,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Female,50 to 59,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,20 to 29,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,20 to 29,Waikato,29,Waikato,175.3568636,-38.04961628
-25/03/2020,Male,20 to 29,Southern,29,Southern,168.7904915,-45.4408859
-25/03/2020,Male,30 to 39,Capital and Coast,29,Capital and Coast,174.8998275,-41.08856224
-25/03/2020,Male,60 to 69,Northland,29,Northland,173.8300954,-35.49463014
-25/03/2020,Female,20 to 29,Capital and Coast,29,Capital and Coast,174.8998275,-41.08856224
-25/03/2020,Female,20 to 29,Canterbury,29,Canterbury,172.639847,-43.41254864
-25/03/2020,Female,20 to 29,Canterbury,29,Canterbury,172.639847,-43.41254864
-25/03/2020,Female,40 to 49,Canterbury,29,Canterbury,172.639847,-43.41254864
-25/03/2020,Male,70+,Bay of Plenty,29,Bay of Plenty,176.919997,-38.09074918
-25/03/2020,Female,60 to 69,Bay of Plenty,29,Bay of Plenty,176.919997,-38.09074918
-25/03/2020,Female,50 to 59,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Male,70+,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Male,30 to 39,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,20 to 29,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,20 to 29,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,15 to 19,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Male,40 to 49,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,60 to 69,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,30 to 39,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Male,30 to 39,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,20 to 29,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Female,20 to 29,Northland,29,Northland,173.8300954,-35.49463014
-25/03/2020,Female,15 to 19,Canterbury,29,Canterbury,172.639847,-43.41254864
-25/03/2020,Female,20 to 29,Auckland,29,Auckland,174.763336,-36.848461
-25/03/2020,Male,20 to 29,Capital and Coast,29,Capital and Coast,174.8998275,-41.08856224
-25/03/2020,Male,40 to 49,Hutt Valley,29,Hutt Valley,175.0495401,-41.16139515
-25/03/2020,Male,50 to 59,Capital and Coast,29,Capital and Coast,174.8998275,-41.08856224
-25/03/2020,Male,50 to 59,Nelson Marlborough,29,Nelson Marlborough,173.1365596,-41.36159701
-25/03/2020,Male,60 to 69,Nelson Marlborough,29,Nelson Marlborough,173.1365596,-41.36159701
-25/03/2020,Male,30 to 39,Nelson Marlborough,29,Nelson Marlborough,173.1365596,-41.36159701
-25/03/2020,Female,20 to 29,Lakes,29,Lakes,176.1228225,-38.65360467
-25/03/2020,Female,20 to 29,Lakes,29,Lakes,176.1228225,-38.65360467
-25/03/2020,Male,50 to 59,Lakes,29,Lakes,176.1228225,-38.65360467
-25/03/2020,,50 to 59,MidCentral,29,MidCentral,175.8099323,-40.38224196
-25/03/2020,Female,60 to 69,Hawke's Bay,29,Hawke's Bay,176.795629,-39.41115147
-25/03/2020,Female,50 to 59,Hawke's Bay,29,Hawke's Bay,176.795629,-39.41115147
-25/03/2020,Female,15 to 19,Counties Manukau,29,Counties Manukau,174.9299786,-37.18674183
-25/03/2020,Female,15 to 19,Counties Manukau,29,Counties Manukau,174.9299786,-37.18674183
-25/03/2020,Female,10 to 14,Counties Manukau,29,Counties Manukau,174.9299786,-37.18674183
-25/03/2020,Male,10 to 14,Counties Manukau,29,Counties Manukau,174.9299786,-37.18674183
-25/03/2020,Male,70+,Hawke's Bay,29,Hawke's Bay,176.795629,-39.41115147
-25/03/2020,Male,60 to 69,Counties Manukau,29,Counties Manukau,174.9299786,-37.18674183
-24/03/2020,Female,30 to 39,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Female,20 to 29,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Male,40 to 49,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Male,20 to 29,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Female,20 to 29,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Male,30 to 39,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Male,70+,Nelson Marlborough,28,Nelson Marlborough,173.1365596,-41.36159701
-24/03/2020,Female,50 to 59,Northland,28,Northland,173.8300954,-35.49463014
-24/03/2020,Male,60 to 69,Nelson Marlborough,28,Nelson Marlborough,173.1365596,-41.36159701
-24/03/2020,Female,20 to 29,MidCentral,28,MidCentral,175.8099323,-40.38224196
-24/03/2020,Female,50 to 59,Waikato,28,Waikato,175.3568636,-38.04961628
-24/03/2020,Male,20 to 29,Lakes,28,Lakes,176.1228225,-38.65360467
-24/03/2020,Male,60 to 69,Southern,28,Southern,168.7904915,-45.4408859
-24/03/2020,Female,30 to 39,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,20 to 29,Waikato,28,Waikato,175.3568636,-38.04961628
-24/03/2020,Male,50 to 59,Wairarapa,28,Wairarapa,175.6273057,-41.0993675
-24/03/2020,Female,30 to 39,Wairarapa,28,Wairarapa,175.6273057,-41.0993675
-24/03/2020,Male,60 to 69,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,40 to 49,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,15 to 19,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Male,40 to 49,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,50 to 59,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Male,20 to 29,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,30 to 39,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,20 to 29,Waitemata,28,Waitemata,174.5462036,-36.56459673
-24/03/2020,Female,70+,Hawke's Bay,28,Hawke's Bay,176.795629,-39.41115147
-24/03/2020,Male,70+,Hawke's Bay,28,Hawke's Bay,176.795629,-39.41115147
-24/03/2020,Female,60 to 69,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Female,20 to 29,Counties Manukau,28,Counties Manukau,174.9299786,-37.18674183
-24/03/2020,Female,50 to 59,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Female,20 to 29,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Male,30 to 39,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Male,50 to 59,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Female,20 to 29,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Female,30 to 39,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Male,20 to 29,Counties Manukau,28,Counties Manukau,174.9299786,-37.18674183
-24/03/2020,Male,30 to 39,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Female,30 to 39,Bay of Plenty,28,Bay of Plenty,176.919997,-38.09074918
-24/03/2020,Female,20 to 29,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Female,01 to 04,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Male,50 to 59,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Female,20 to 29,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Male,30 to 39,Auckland,28,Auckland,174.763336,-36.848461
-24/03/2020,Female,20 to 29,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Female,50 to 59,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Female,20 to 29,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Female,60 to 69,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Female,50 to 59,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Male,50 to 59,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Male,40 to 49,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Male,30 to 39,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Male,20 to 29,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Male,30 to 39,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-24/03/2020,Male,50 to 59,Canterbury,28,Canterbury,172.639847,-43.41254864
-24/03/2020,Male,60 to 69,Capital and Coast,28,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Female,50 to 59,Southern,27,Southern,168.7904915,-45.4408859
-23/03/2020,Female,30 to 39,Lakes,27,Lakes,176.1228225,-38.65360467
-23/03/2020,Male,70+,MidCentral,27,MidCentral,175.8099323,-40.38224196
-23/03/2020,Female,70+,Nelson Marlborough,27,Nelson Marlborough,173.1365596,-41.36159701
-23/03/2020,Male,30 to 39,Nelson Marlborough,27,Nelson Marlborough,173.1365596,-41.36159701
-23/03/2020,Male,50 to 59,Nelson Marlborough,27,Nelson Marlborough,173.1365596,-41.36159701
-23/03/2020,Male,20 to 29,South Canterbury,27,South Canterbury,170.6559497,-44.14680819
-23/03/2020,Male,60 to 69,South Canterbury,27,South Canterbury,170.6559497,-44.14680819
-23/03/2020,Male,15 to 19,Southern,27,Southern,168.7904915,-45.4408859
-23/03/2020,Female,30 to 39,Southern,27,Southern,168.7904915,-45.4408859
-23/03/2020,Male,30 to 39,Southern,27,Southern,168.7904915,-45.4408859
-23/03/2020,Male,50 to 59,Waikato,27,Waikato,175.3568636,-38.04961628
-23/03/2020,Female,60 to 69,Waikato,27,Waikato,175.3568636,-38.04961628
-23/03/2020,Female,40 to 49,Waikato,27,Waikato,175.3568636,-38.04961628
-23/03/2020,Female,60 to 69,Waitemata,27,Waitemata,174.5462036,-36.56459673
-23/03/2020,Female,30 to 39,Waitemata,27,Waitemata,174.5462036,-36.56459673
-23/03/2020,Female,30 to 39,Counties Manukau,27,Counties Manukau,174.9299786,-37.18674183
-23/03/2020,Male,40 to 49,Hutt Valley,27,Hutt Valley,175.0495401,-41.16139515
-23/03/2020,Male,50 to 59,Waikato,27,Waikato,175.3568636,-38.04961628
-23/03/2020,Male,50 to 59,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Female,20 to 29,Canterbury,27,Canterbury,172.639847,-43.41254864
-23/03/2020,Male,40 to 49,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Female,20 to 29,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Female,30 to 39,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Female,15 to 19,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Male,20 to 29,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Female,20 to 29,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Female,15 to 19,Auckland,27,Auckland,174.763336,-36.848461
-23/03/2020,Male,50 to 59,Canterbury,27,Canterbury,172.639847,-43.41254864
-23/03/2020,Female,70+,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Male,50 to 59,Canterbury,27,Canterbury,172.639847,-43.41254864
-23/03/2020,Male,50 to 59,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Male,70+,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Female,60 to 69,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Male,50 to 59,Canterbury,27,Canterbury,172.639847,-43.41254864
-23/03/2020,Female,50 to 59,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Male,30 to 39,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-23/03/2020,Male,60 to 69,Capital and Coast,27,Capital and Coast,174.8998275,-41.08856224
-22/03/2020,Female,50 to 59,Southern,26,Southern,168.7904915,-45.4408859
-22/03/2020,Male,10 to 14,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Female,50 to 59,Hutt Valley,26,Hutt Valley,175.0495401,-41.16139515
-22/03/2020,Male,50 to 59,Nelson Marlborough,26,Nelson Marlborough,173.1365596,-41.36159701
-22/03/2020,Female,50 to 59,Nelson Marlborough,26,Nelson Marlborough,173.1365596,-41.36159701
-22/03/2020,Male,20 to 29,Nelson Marlborough,26,Nelson Marlborough,173.1365596,-41.36159701
-22/03/2020,Female,70+,Nelson Marlborough,26,Nelson Marlborough,173.1365596,-41.36159701
-22/03/2020,Male,70+,Nelson Marlborough,26,Nelson Marlborough,173.1365596,-41.36159701
-22/03/2020,Female,40 to 49,Northland,26,Northland,173.8300954,-35.49463014
-22/03/2020,Female,20 to 29,Southern,26,Southern,168.7904915,-45.4408859
-22/03/2020,Female,50 to 59,Waikato,26,Waikato,175.3568636,-38.04961628
-22/03/2020,Male,70+,Waikato,26,Waikato,175.3568636,-38.04961628
-22/03/2020,Male,50 to 59,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Male,20 to 29,Waitemata,26,Waitemata,174.5462036,-36.56459673
-22/03/2020,Male,30 to 39,Waitemata,26,Waitemata,174.5462036,-36.56459673
-22/03/2020,Female,20 to 29,Waitemata,26,Waitemata,174.5462036,-36.56459673
-22/03/2020,Female,40 to 49,Waitemata,26,Waitemata,174.5462036,-36.56459673
-22/03/2020,Male,60 to 69,West Coast,26,West Coast,170.8716463,-42.7948379
-22/03/2020,Female,40 to 49,Waitemata,26,Waitemata,174.5462036,-36.56459673
-22/03/2020,Female,50 to 59,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Female,60 to 69,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Female,20 to 29,Canterbury,26,Canterbury,172.639847,-43.41254864
-22/03/2020,Male,60 to 69,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,,20 to 29,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,Female,40 to 49,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,Male,20 to 29,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,Female,20 to 29,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Male,60 to 69,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,Female,30 to 39,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,Female,60 to 69,Canterbury,26,Canterbury,172.639847,-43.41254864
-22/03/2020,Male,50 to 59,Auckland,26,Auckland,174.763336,-36.848461
-22/03/2020,Female,20 to 29,Canterbury,26,Canterbury,172.639847,-43.41254864
-22/03/2020,Female,60 to 69,Capital and Coast,26,Capital and Coast,174.8998275,-41.08856224
-22/03/2020,Male,40 to 49,Capital and Coast,26,Capital and Coast,174.8998275,-41.08856224
-22/03/2020,Female,15 to 19,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Male,40 to 49,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Male,40 to 49,Counties Manukau,26,Counties Manukau,174.9299786,-37.18674183
-22/03/2020,Male,50 to 59,Capital and Coast,26,Capital and Coast,174.8998275,-41.08856224
-22/03/2020,Female,20 to 29,Capital and Coast,26,Capital and Coast,174.8998275,-41.08856224
-22/03/2020,Female,20 to 29,Capital and Coast,26,Capital and Coast,174.8998275,-41.08856224
-21/03/2020,Male,15 to 19,Counties Manukau,25,Counties Manukau,174.9299786,-37.18674183
-21/03/2020,Female,60 to 69,Waitemata,25,Waitemata,174.5462036,-36.56459673
-21/03/2020,Male,20 to 29,Wairarapa,25,Wairarapa,175.6273057,-41.0993675
-21/03/2020,Male,60 to 69,Waikato,25,Waikato,175.3568636,-38.04961628
-21/03/2020,Female,60 to 69,Waikato,25,Waikato,175.3568636,-38.04961628
-21/03/2020,Female,40 to 49,Waikato,25,Waikato,175.3568636,-38.04961628
-21/03/2020,Male,50 to 59,Taranaki,25,Taranaki,174.4683977,-39.31457554
-21/03/2020,Male,60 to 69,Nelson Marlborough,25,Nelson Marlborough,173.1365596,-41.36159701
-21/03/2020,Male,30 to 39,Nelson Marlborough,25,Nelson Marlborough,173.1365596,-41.36159701
-21/03/2020,Female,40 to 49,MidCentral,25,MidCentral,175.8099323,-40.38224196
-21/03/2020,Female,30 to 39,Wairarapa,25,Wairarapa,175.6273057,-41.0993675
-21/03/2020,Female,40 to 49,Counties Manukau,25,Counties Manukau,174.9299786,-37.18674183
-21/03/2020,Male,60 to 69,Counties Manukau,25,Counties Manukau,174.9299786,-37.18674183
-21/03/2020,Male,60 to 69,Capital and Coast,25,Capital and Coast,174.8998275,-41.08856224
-21/03/2020,Male,60 to 69,Canterbury,25,Canterbury,172.639847,-43.41254864
-21/03/2020,Female,60 to 69,Canterbury,25,Canterbury,172.639847,-43.41254864
-21/03/2020,Male,20 to 29,Canterbury,25,Canterbury,172.639847,-43.41254864
-21/03/2020,Male,30 to 39,Bay of Plenty,25,Bay of Plenty,176.919997,-38.09074918
-21/03/2020,Female,50 to 59,Auckland,25,Auckland,174.763336,-36.848461
-21/03/2020,Male,50 to 59,Auckland,25,Auckland,174.763336,-36.848461
-21/03/2020,Female,20 to 29,Auckland,25,Auckland,174.763336,-36.848461
-21/03/2020,Male,20 to 29,Auckland,25,Auckland,174.763336,-36.848461
-21/03/2020,Male,60 to 69,Counties Manukau,25,Counties Manukau,174.9299786,-37.18674183
-20/03/2020,Male,20 to 29,Southern,24,Southern,168.7904915,-45.4408859
-20/03/2020,Female,30 to 39,Waitemata,24,Waitemata,174.5462036,-36.56459673
-20/03/2020,Male,70+,Waitemata,24,Waitemata,174.5462036,-36.56459673
-20/03/2020,Female,60 to 69,Waikato,24,Waikato,175.3568636,-38.04961628
-20/03/2020,Male,40 to 49,Southern,24,Southern,168.7904915,-45.4408859
-20/03/2020,Male,50 to 59,Lakes,24,Lakes,176.1228225,-38.65360467
-20/03/2020,Female,20 to 29,Nelson Marlborough,24,Nelson Marlborough,173.1365596,-41.36159701
-20/03/2020,Female,60 to 69,Nelson Marlborough,24,Nelson Marlborough,173.1365596,-41.36159701
-20/03/2020,Male,20 to 29,Canterbury,24,Canterbury,172.639847,-43.41254864
-20/03/2020,Female,50 to 59,Canterbury,24,Canterbury,172.639847,-43.41254864
-20/03/2020,Male,60 to 69,Auckland,24,Auckland,174.763336,-36.848461
-19/03/2020,Female,20 to 29,MidCentral,23,MidCentral,175.8099323,-40.38224196
-19/03/2020,Female,40 to 49,Waitemata,23,Waitemata,174.5462036,-36.56459673
-19/03/2020,Female,70+,Waikato,23,Waikato,175.3568636,-38.04961628
-19/03/2020,Female,60 to 69,Waikato,23,Waikato,175.3568636,-38.04961628
-19/03/2020,Female,30 to 39,Southern,23,Southern,168.7904915,-45.4408859
-19/03/2020,Male,40 to 49,MidCentral,23,MidCentral,175.8099323,-40.38224196
-19/03/2020,Female,30 to 39,MidCentral,23,MidCentral,175.8099323,-40.38224196
-19/03/2020,Male,30 to 39,Wairarapa,23,Wairarapa,175.6273057,-41.0993675
-19/03/2020,Male,50 to 59,Hutt Valley,23,Hutt Valley,175.0495401,-41.16139515
-19/03/2020,Male,30 to 39,Hawke's Bay,23,Hawke's Bay,176.795629,-39.41115147
-19/03/2020,Male,40 to 49,Counties Manukau,23,Counties Manukau,174.9299786,-37.18674183
-19/03/2020,Female,30 to 39,Capital and Coast,23,Capital and Coast,174.8998275,-41.08856224
-19/03/2020,Male,60 to 69,Capital and Coast,23,Capital and Coast,174.8998275,-41.08856224
-19/03/2020,Male,40 to 49,Auckland,23,Auckland,174.763336,-36.848461
-19/03/2020,Male,40 to 49,Auckland,23,Auckland,174.763336,-36.848461
-19/03/2020,Male,50 to 59,Hutt Valley,23,Hutt Valley,175.0495401,-41.16139515
-18/03/2020,Male,60 to 69,Southern,22,Southern,168.7904915,-45.4408859
-18/03/2020,Male,40 to 49,Southern,22,Southern,168.7904915,-45.4408859
-18/03/2020,Male,50 to 59,Canterbury,22,Canterbury,172.639847,-43.41254864
-18/03/2020,Male,50 to 59,Capital and Coast,22,Capital and Coast,174.8998275,-41.08856224
-18/03/2020,Female,50 to 59,Auckland,22,Auckland,174.763336,-36.848461
-17/03/2020,Male,50 to 59,Lakes,21,Lakes,176.1228225,-38.65360467
-17/03/2020,Male,60 to 69,Waitemata,21,Waitemata,174.5462036,-36.56459673
-17/03/2020,Male,60 to 69,Waitemata,21,Waitemata,174.5462036,-36.56459673
-17/03/2020,Male,15 to 19,Southern,21,Southern,168.7904915,-45.4408859
-17/03/2020,Male,20 to 29,Northland,21,Northland,173.8300954,-35.49463014
-17/03/2020,Male,40 to 49,Southern,21,Southern,168.7904915,-45.4408859
-17/03/2020,Female,30 to 39,Counties Manukau,21,Counties Manukau,174.9299786,-37.18674183
-17/03/2020,Female,40 to 49,Canterbury,21,Canterbury,172.639847,-43.41254864
-17/03/2020,Male,40 to 49,Auckland,21,Auckland,174.763336,-36.848461
-17/03/2020,Male,50 to 59,Auckland,21,Auckland,174.763336,-36.848461
-17/03/2020,Male,40 to 49,Capital and Coast,21,Capital and Coast,174.8998275,-41.08856224
-16/03/2020,Male,40 to 49,Taranaki,20,Taranaki,174.4683977,-39.31457554
-16/03/2020,Female,20 to 29,Waikato,20,Waikato,175.3568636,-38.04961628
-16/03/2020,Female,40 to 49,Taranaki,20,Taranaki,174.4683977,-39.31457554
-16/03/2020,Male,70+,Waikato,20,Waikato,175.3568636,-38.04961628
-16/03/2020,Male,30 to 39,Capital and Coast,20,Capital and Coast,174.8998275,-41.08856224
-16/03/2020,Male,70+,Capital and Coast,20,Capital and Coast,174.8998275,-41.08856224
-16/03/2020,Male,60 to 69,Auckland,20,Auckland,174.763336,-36.848461
-15/03/2020,Female,40 to 49,Waitemata,19,Waitemata,174.5462036,-36.56459673
-14/03/2020,Male,60 to 69,Capital and Coast,18,Capital and Coast,174.8998275,-41.08856224
-13/03/2020,Female,30 to 39,Southern,17,Southern,168.7904915,-45.4408859
-12/03/2020,Male,60 to 69,Counties Manukau,16,Counties Manukau,174.9299786,-37.18674183
-6/03/2020,Female,40 to 49,Counties Manukau,10,Counties Manukau,174.9299786,-37.18674183
-4/03/2020,Male,40 to 49,Counties Manukau,8,Counties Manukau,174.9299786,-37.18674183
-4/03/2020,Male,40 to 49,Waitemata,8,Waitemata,174.5462036,-36.56459673
-2/03/2020,Female,30 to 39,Waitemata,6,Waitemata,174.5462036,-36.56459673
-28/02/2020,Male,40 to 49,Southern,3,Southern,168.7904915,-45.4408859
-28/02/2020,Female,40 to 49,Southern,3,Southern,168.7904915,-45.4408859
-26/02/2020,Female,60 to 69,Auckland,1,Auckland,174.763336,-36.848461
-,Female,20 to 29,Counties Manukau,,Counties Manukau,174.9299786,-37.18674183
-,Male,60 to 69,Auckland,,Auckland,174.763336,-36.848461
-,Male,20 to 29,Capital and Coast,,Capital and Coast,174.8998275,-41.08856224
-,Female,20 to 29,Waitemata,,Waitemata,174.5462036,-36.56459673
-,Female,40 to 49,Auckland,,Auckland,174.763336,-36.848461
-,Female,00 to 01,Counties Manukau,,Counties Manukau,174.9299786,-37.18674183
+2020-04-01,Male,20 to 29,Hawke's Bay,36.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-04-01,Female,60 to 69,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Male,30 to 39,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Male,40 to 49,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Female,20 to 29,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Female,30 to 39,Taranaki,36.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-04-01,Female,60 to 69,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Female,50 to 59,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Female,50 to 59,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-04-01,Female,30 to 39,Southern,36.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Female,40 to 49,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Male,40 to 49,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Male,40 to 49,Waikato,35.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-31,Female,15 to 19,Waikato,35.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-31,Female,40 to 49,Waikato,35.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-31,Female,30 to 39,Waikato,35.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-31,Female,40 to 49,Waikato,35.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-31,Female,20 to 29,Wairarapa,35.0,Wairarapa,175.62730571256188,-41.099367501562206
+2020-03-31,Female,20 to 29,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Male,10 to 14,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Female,60 to 69,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Female,10 to 14,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Female,50 to 59,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Male,50 to 59,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Female,30 to 39,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Male,40 to 49,Waitemata,35.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-31,Female,30 to 39,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Female,20 to 29,Waikato,35.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-31,Female,20 to 29,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Male,20 to 29,Counties Manukau,35.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-31,Female,60 to 69,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Female,20 to 29,Auckland,35.0,Auckland,174.763336,-36.848461
+2020-03-31,Female,30 to 39,Auckland,35.0,Auckland,174.763336,-36.848461
+2020-03-31,Female,40 to 49,Auckland,35.0,Auckland,174.763336,-36.848461
+2020-03-31,Male,70+,Bay of Plenty,35.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-31,Male,60 to 69,Capital and Coast,35.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-31,Male,10 to 14,Capital and Coast,35.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-31,Female,50 to 59,Bay of Plenty,35.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-31,Female,30 to 39,Counties Manukau,35.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-31,Female,30 to 39,Counties Manukau,35.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-31,Male,50 to 59,Hutt Valley,35.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-31,Female,30 to 39,Northland,35.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-31,Male,70+,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-31,Female,30 to 39,Counties Manukau,35.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-31,Female,20 to 29,Southern,35.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Male,60 to 69,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Female,15 to 19,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Male,20 to 29,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Female,60 to 69,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Female,60 to 69,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Male,10 to 14,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Female,15 to 19,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Male,20 to 29,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Female,40 to 49,Waikato,34.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-30,Female,20 to 29,Taranaki,34.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-30,Female,20 to 29,Waitemata,34.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-30,Female,40 to 49,Waikato,34.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-30,Female,70+,Waikato,34.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-30,Male,30 to 39,Waikato,34.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-30,Female,15 to 19,Waikato,34.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-30,Male,20 to 29,Waitemata,34.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-30,Female,20 to 29,Waitemata,34.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-30,Female,40 to 49,Waitemata,34.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-30,Female,70+,Waitemata,34.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-30,Male,30 to 39,South Canterbury,34.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-30,Female,20 to 29,Southern,34.0,Southern,168.790491527179,-45.44088589658808
+2020-03-30,Female,70+,Hawke's Bay,34.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-30,Male,50 to 59,Northland,34.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-30,Female,20 to 29,Counties Manukau,34.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-30,Female,20 to 29,Nelson Marlborough,34.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-30,Male,20 to 29,Auckland,34.0,Auckland,174.763336,-36.848461
+2020-03-30,Male,15 to 19,Auckland,34.0,Auckland,174.763336,-36.848461
+2020-03-30,Male,40 to 49,Auckland,34.0,Auckland,174.763336,-36.848461
+2020-03-30,Male,20 to 29,Auckland,34.0,Auckland,174.763336,-36.848461
+2020-03-30,Female,40 to 49,Bay of Plenty,34.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-30,Female,20 to 29,Bay of Plenty,34.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-30,Male,40 to 49,Bay of Plenty,34.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-30,Male,40 to 49,Bay of Plenty,34.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-30,Female,40 to 49,Auckland,34.0,Auckland,174.763336,-36.848461
+2020-03-30,Female,50 to 59,Counties Manukau,34.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-30,Male,40 to 49,Counties Manukau,34.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-30,Female,20 to 29,Counties Manukau,34.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-30,Male,70+,Hawke's Bay,34.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-30,Male,30 to 39,Hawke's Bay,34.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-30,Female,30 to 39,Lakes,34.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-30,,20 to 29,Counties Manukau,34.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-30,Male,30 to 39,Lakes,34.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-29,Female,30 to 39,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,40 to 49,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Female,40 to 49,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,50 to 59,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,20 to 29,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Female,50 to 59,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,40 to 49,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Female,30 to 39,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,20 to 29,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,40 to 49,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,30 to 39,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,60 to 69,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,20 to 29,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,40 to 49,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Female,40 to 49,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,50 to 59,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,50 to 59,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Female,40 to 49,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Female,60 to 69,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Male,60 to 69,Waikato,33.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-29,Female,20 to 29,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Male,20 to 29,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Female,60 to 69,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Female,50 to 59,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Male,20 to 29,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Male,15 to 19,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Male,20 to 29,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Male,40 to 49,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Female,15 to 19,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Male,50 to 59,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Female,15 to 19,Waitemata,33.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-29,Female,40 to 49,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Male,60 to 69,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Male,40 to 49,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Male,40 to 49,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Male,40 to 49,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Male,70+,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Female,20 to 29,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Male,30 to 39,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Female,40 to 49,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Female,20 to 29,Canterbury,33.0,Canterbury,172.639847,-43.412548637733316
+2020-03-29,Male,20 to 29,Canterbury,33.0,Canterbury,172.639847,-43.412548637733316
+2020-03-29,Male,50 to 59,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Female,20 to 29,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Female,50 to 59,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Male,40 to 49,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Female,10 to 14,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Male,20 to 29,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Male,60 to 69,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Female,20 to 29,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Female,30 to 39,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Female,40 to 49,Auckland,33.0,Auckland,174.763336,-36.848461
+2020-03-29,Male,20 to 29,Capital and Coast,33.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-29,Female,40 to 49,Northland,33.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-29,Male,20 to 29,Counties Manukau,33.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-29,Female,20 to 29,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,15 to 19,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,40 to 49,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,20 to 29,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Male,70+,South Canterbury,33.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-29,Female,20 to 29,Southern,33.0,Southern,168.790491527179,-45.44088589658808
+2020-03-29,Female,20 to 29,Northland,33.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-29,Female,20 to 29,Nelson Marlborough,33.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-29,Female,30 to 39,MidCentral,33.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-29,Female,40 to 49,MidCentral,33.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-29,Female,20 to 29,Counties Manukau,33.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-29,Male,20 to 29,Counties Manukau,33.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-28,Female,50 to 59,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,20 to 29,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,30 to 39,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,20 to 29,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,60 to 69,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,50 to 59,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,20 to 29,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Male,20 to 29,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Male,60 to 69,South Canterbury,32.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-28,Female,40 to 49,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Male,40 to 49,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Male,20 to 29,Southern,32.0,Southern,168.790491527179,-45.44088589658808
+2020-03-28,Female,01 to 04,Waikato,32.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-28,Female,30 to 39,Waikato,32.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-28,Female,15 to 19,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,70+,Waikato,32.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-28,Female,40 to 49,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Male,40 to 49,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,20 to 29,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,20 to 29,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,50 to 59,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Male,20 to 29,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Male,70+,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,20 to 29,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Male,40 to 49,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,10 to 14,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,15 to 19,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,10 to 14,Waitemata,32.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-28,Female,20 to 29,Lakes,32.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-28,Male,30 to 39,Nelson Marlborough,32.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-28,Female,20 to 29,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Male,70+,Hawke's Bay,32.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-28,Female,70+,Bay of Plenty,32.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-28,Female,30 to 39,Counties Manukau,32.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-28,Female,10 to 14,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,30 to 39,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,30 to 39,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,50 to 59,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Male,60 to 69,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Male,60 to 69,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,30 to 39,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Male,30 to 39,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Male,60 to 69,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,10 to 14,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,60 to 69,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,15 to 19,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,20 to 29,Auckland,32.0,Auckland,174.763336,-36.848461
+2020-03-28,Female,20 to 29,Bay of Plenty,32.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-28,Female,50 to 59,Capital and Coast,32.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-28,Female,20 to 29,Canterbury,32.0,Canterbury,172.639847,-43.412548637733316
+2020-03-28,Female,50 to 59,Counties Manukau,32.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-28,Male,40 to 49,Counties Manukau,32.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-28,Female,40 to 49,Counties Manukau,32.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-28,Female,20 to 29,Capital and Coast,32.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-28,Female,20 to 29,Capital and Coast,32.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-28,Female,15 to 19,Capital and Coast,32.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-28,Female,40 to 49,Capital and Coast,32.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-28,Male,40 to 49,Canterbury,32.0,Canterbury,172.639847,-43.412548637733316
+2020-03-28,Female,40 to 49,Canterbury,32.0,Canterbury,172.639847,-43.412548637733316
+2020-03-28,Male,30 to 39,Canterbury,32.0,Canterbury,172.639847,-43.412548637733316
+2020-03-27,Female,15 to 19,Taranaki,31.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-27,Female,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,50 to 59,Taranaki,31.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-27,Female,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,60 to 69,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,70+,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,20 to 29,Taranaki,31.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-27,Female,30 to 39,Taranaki,31.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-27,Male,20 to 29,Whanganui,31.0,Whanganui,175.52088609793336,-39.60845102026715
+2020-03-27,Female,20 to 29,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Male,40 to 49,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Male,20 to 29,Whanganui,31.0,Whanganui,175.52088609793336,-39.60845102026715
+2020-03-27,Male,20 to 29,Whanganui,31.0,Whanganui,175.52088609793336,-39.60845102026715
+2020-03-27,Male,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,30 to 39,Waitemata,31.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-27,Male,20 to 29,Waitemata,31.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-27,Male,20 to 29,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Female,30 to 39,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Male,50 to 59,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Female,40 to 49,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Male,15 to 19,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Female,15 to 19,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Female,40 to 49,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Male,60 to 69,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Female,30 to 39,Waikato,31.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-27,Female,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,20 to 29,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,20 to 29,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Male,50 to 59,Capital and Coast,31.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-27,Female,50 to 59,Capital and Coast,31.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-27,Male,20 to 29,Capital and Coast,31.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-27,Male,60 to 69,Canterbury,31.0,Canterbury,172.639847,-43.412548637733316
+2020-03-27,,40 to 49,Canterbury,31.0,Canterbury,172.639847,-43.412548637733316
+2020-03-27,Male,70+,Bay of Plenty,31.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-27,Female,15 to 19,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Female,40 to 49,Counties Manukau,31.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-27,Male,40 to 49,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Female,70+,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Female,20 to 29,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Male,40 to 49,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Female,60 to 69,Auckland,31.0,Auckland,174.763336,-36.848461
+2020-03-27,Male,30 to 39,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,30 to 39,Counties Manukau,31.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-27,Female,20 to 29,Bay of Plenty,31.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-27,Female,50 to 59,Counties Manukau,31.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-27,Female,60 to 69,South Canterbury,31.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-27,Female,30 to 39,Counties Manukau,31.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-27,Female,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Male,50 to 59,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,20 to 29,South Canterbury,31.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-27,Female,01 to 04,South Canterbury,31.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-27,Female,40 to 49,South Canterbury,31.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-27,Male,40 to 49,Southern,31.0,Southern,168.790491527179,-45.44088589658808
+2020-03-27,Female,60 to 69,MidCentral,31.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-27,Female,30 to 39,Hutt Valley,31.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-27,Male,60 to 69,Hutt Valley,31.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-27,Female,60 to 69,Hutt Valley,31.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-27,Female,20 to 29,Hawke's Bay,31.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-27,Female,50 to 59,MidCentral,31.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-26,Male,50 to 59,Tairawhiti,30.0,Tairawhiti,177.92076623625192,-38.281418017745224
+2020-03-26,Male,70+,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,60 to 69,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Female,70+,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Female,15 to 19,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,70+,Taranaki,30.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-26,Male,50 to 59,Taranaki,30.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-26,Female,60 to 69,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Male,60 to 69,Lakes,30.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-26,Male,50 to 59,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Female,40 to 49,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Female,70+,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Male,70+,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Male,50 to 59,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Male,60 to 69,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Female,20 to 29,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,20 to 29,West Coast,30.0,West Coast,170.87164626747807,-42.7948378975702
+2020-03-26,Female,20 to 29,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Female,60 to 69,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,40 to 49,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,20 to 29,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,50 to 59,Waikato,30.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-26,Male,40 to 49,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,20 to 29,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,40 to 49,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Male,50 to 59,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Male,50 to 59,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,20 to 29,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,20 to 29,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,30 to 39,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,40 to 49,Waitemata,30.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-26,Female,70+,West Coast,30.0,West Coast,170.87164626747807,-42.7948378975702
+2020-03-26,Female,20 to 29,Northland,30.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-26,Male,20 to 29,Southern,30.0,Southern,168.790491527179,-45.44088589658808
+2020-03-26,Female,40 to 49,Hutt Valley,30.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-26,Female,40 to 49,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,01 to 04,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Male,30 to 39,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Male,20 to 29,Bay of Plenty,30.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-26,Female,20 to 29,Bay of Plenty,30.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-26,Male,70+,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,15 to 19,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Male,40 to 49,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,30 to 39,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Female,30 to 39,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,20 to 29,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,20 to 29,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,30 to 39,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Male,20 to 29,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Female,20 to 29,Hutt Valley,30.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-26,Female,30 to 39,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Female,30 to 39,Auckland,30.0,Auckland,174.763336,-36.848461
+2020-03-26,Male,20 to 29,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Male,30 to 39,Counties Manukau,30.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-26,Male,50 to 59,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Female,50 to 59,Hutt Valley,30.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-26,Female,30 to 39,Hutt Valley,30.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-26,Male,70+,Hawke's Bay,30.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-26,Male,50 to 59,Hawke's Bay,30.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-26,Female,20 to 29,Hawke's Bay,30.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-26,Female,60 to 69,Counties Manukau,30.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-26,Female,60 to 69,Hawke's Bay,30.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-26,Female,50 to 59,Counties Manukau,30.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-26,Male,40 to 49,Capital and Coast,30.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-26,Female,20 to 29,Capital and Coast,30.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-26,Female,20 to 29,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Female,30 to 39,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-26,Male,20 to 29,Canterbury,30.0,Canterbury,172.639847,-43.412548637733316
+2020-03-25,Male,20 to 29,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,20 to 29,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,30 to 39,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,70+,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,50 to 59,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,15 to 19,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,40 to 49,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,50 to 59,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,30 to 39,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,30 to 39,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Female,20 to 29,Taranaki,29.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-25,Male,20 to 29,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Male,20 to 29,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Male,60 to 69,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Male,20 to 29,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Female,40 to 49,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Female,30 to 39,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Female,20 to 29,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,20 to 29,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,50 to 59,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Male,60 to 69,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,20 to 29,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,70+,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Female,20 to 29,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Male,60 to 69,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Male,30 to 39,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Female,30 to 39,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Female,60 to 69,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Female,30 to 39,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Male,40 to 49,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Female,20 to 29,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Male,70+,Waitemata,29.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-25,Female,40 to 49,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,40 to 49,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,60 to 69,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,60 to 69,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,40 to 49,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,60 to 69,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Female,30 to 39,Waikato,29.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-25,Male,50 to 59,Southern,29.0,Southern,168.790491527179,-45.44088589658808
+2020-03-25,Male,60 to 69,Nelson Marlborough,29.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-25,Male,60 to 69,Northland,29.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-25,Male,30 to 39,Capital and Coast,29.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-25,Female,20 to 29,Canterbury,29.0,Canterbury,172.639847,-43.412548637733316
+2020-03-25,Female,20 to 29,Canterbury,29.0,Canterbury,172.639847,-43.412548637733316
+2020-03-25,Female,15 to 19,Canterbury,29.0,Canterbury,172.639847,-43.412548637733316
+2020-03-25,Female,60 to 69,Bay of Plenty,29.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-25,Male,70+,Bay of Plenty,29.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-25,Female,20 to 29,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Male,30 to 39,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,50 to 59,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,30 to 39,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,60 to 69,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,20 to 29,Northland,29.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-25,Female,20 to 29,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,15 to 19,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,20 to 29,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,20 to 29,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Male,30 to 39,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Male,70+,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Female,40 to 49,Canterbury,29.0,Canterbury,172.639847,-43.412548637733316
+2020-03-25,Male,40 to 49,Auckland,29.0,Auckland,174.763336,-36.848461
+2020-03-25,Male,50 to 59,Capital and Coast,29.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-25,Male,70+,Hawke's Bay,29.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-25,Male,20 to 29,Capital and Coast,29.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-25,Male,30 to 39,Nelson Marlborough,29.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-25,Male,50 to 59,Nelson Marlborough,29.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-25,Male,50 to 59,Lakes,29.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-25,Female,20 to 29,Lakes,29.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-25,Female,20 to 29,Lakes,29.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-25,Male,40 to 49,Hutt Valley,29.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-25,,50 to 59,MidCentral,29.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-25,Female,60 to 69,Hawke's Bay,29.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-25,Female,15 to 19,Counties Manukau,29.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-25,Female,20 to 29,Capital and Coast,29.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-25,Female,50 to 59,Hawke's Bay,29.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-25,Male,60 to 69,Counties Manukau,29.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-25,Male,10 to 14,Counties Manukau,29.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-25,Female,10 to 14,Counties Manukau,29.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-25,Female,15 to 19,Counties Manukau,29.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-24,Male,40 to 49,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Female,70+,Hawke's Bay,28.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-24,Male,20 to 29,Lakes,28.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-24,Female,20 to 29,MidCentral,28.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-24,Male,60 to 69,Nelson Marlborough,28.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-24,Male,70+,Nelson Marlborough,28.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-24,Female,50 to 59,Northland,28.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-24,Female,30 to 39,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Male,20 to 29,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Female,20 to 29,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Male,30 to 39,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Male,60 to 69,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Female,20 to 29,Southern,28.0,Southern,168.790491527179,-45.44088589658808
+2020-03-24,Female,50 to 59,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,20 to 29,Waikato,28.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-24,Female,50 to 59,Waikato,28.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-24,Male,50 to 59,Wairarapa,28.0,Wairarapa,175.62730571256188,-41.099367501562206
+2020-03-24,Female,30 to 39,Wairarapa,28.0,Wairarapa,175.62730571256188,-41.099367501562206
+2020-03-24,Male,60 to 69,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,40 to 49,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,15 to 19,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Male,40 to 49,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,30 to 39,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,30 to 39,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,20 to 29,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Female,20 to 29,Counties Manukau,28.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-24,Male,70+,Hawke's Bay,28.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-24,Male,20 to 29,Waitemata,28.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-24,Male,20 to 29,Counties Manukau,28.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-24,Female,20 to 29,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Male,30 to 39,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Male,30 to 39,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Female,20 to 29,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Female,30 to 39,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Male,30 to 39,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Male,50 to 59,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Female,20 to 29,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Female,30 to 39,Bay of Plenty,28.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-24,Female,20 to 29,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Male,50 to 59,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Female,20 to 29,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Female,50 to 59,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Male,30 to 39,Auckland,28.0,Auckland,174.763336,-36.848461
+2020-03-24,Male,50 to 59,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Female,60 to 69,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Female,01 to 04,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-24,Male,50 to 59,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Female,50 to 59,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Male,30 to 39,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Female,60 to 69,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Male,60 to 69,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Male,20 to 29,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Female,50 to 59,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Male,40 to 49,Capital and Coast,28.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-24,Female,20 to 29,Canterbury,28.0,Canterbury,172.639847,-43.412548637733316
+2020-03-23,Female,30 to 39,Lakes,27.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-23,Female,30 to 39,Southern,27.0,Southern,168.790491527179,-45.44088589658808
+2020-03-23,Male,70+,MidCentral,27.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-23,Male,50 to 59,Nelson Marlborough,27.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-23,Male,30 to 39,Nelson Marlborough,27.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-23,Female,70+,Nelson Marlborough,27.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-23,Male,60 to 69,South Canterbury,27.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-23,Male,20 to 29,South Canterbury,27.0,South Canterbury,170.65594967682526,-44.1468081869967
+2020-03-23,Male,30 to 39,Southern,27.0,Southern,168.790491527179,-45.44088589658808
+2020-03-23,Male,50 to 59,Waikato,27.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-23,Female,50 to 59,Southern,27.0,Southern,168.790491527179,-45.44088589658808
+2020-03-23,Male,15 to 19,Southern,27.0,Southern,168.790491527179,-45.44088589658808
+2020-03-23,Male,50 to 59,Waikato,27.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-23,Female,40 to 49,Waikato,27.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-23,Female,60 to 69,Waikato,27.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-23,Female,60 to 69,Waitemata,27.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-23,Female,30 to 39,Waitemata,27.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-23,Female,30 to 39,Counties Manukau,27.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-23,Male,40 to 49,Hutt Valley,27.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-23,Female,50 to 59,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Male,70+,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Male,50 to 59,Canterbury,27.0,Canterbury,172.639847,-43.412548637733316
+2020-03-23,Female,70+,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Female,20 to 29,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Female,15 to 19,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Male,20 to 29,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Female,20 to 29,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Female,15 to 19,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Male,40 to 49,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Male,50 to 59,Canterbury,27.0,Canterbury,172.639847,-43.412548637733316
+2020-03-23,Female,30 to 39,Auckland,27.0,Auckland,174.763336,-36.848461
+2020-03-23,Female,20 to 29,Canterbury,27.0,Canterbury,172.639847,-43.412548637733316
+2020-03-23,Male,50 to 59,Canterbury,27.0,Canterbury,172.639847,-43.412548637733316
+2020-03-23,Male,50 to 59,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Male,30 to 39,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Female,60 to 69,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Male,50 to 59,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-23,Male,60 to 69,Capital and Coast,27.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-22,Male,10 to 14,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Female,50 to 59,Hutt Valley,26.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-22,Female,70+,Nelson Marlborough,26.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-22,Male,70+,Nelson Marlborough,26.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-22,Male,20 to 29,Nelson Marlborough,26.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-22,Female,50 to 59,Nelson Marlborough,26.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-22,Male,50 to 59,Nelson Marlborough,26.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-22,Female,40 to 49,Northland,26.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-22,Male,60 to 69,West Coast,26.0,West Coast,170.87164626747807,-42.7948378975702
+2020-03-22,Female,50 to 59,Southern,26.0,Southern,168.790491527179,-45.44088589658808
+2020-03-22,Female,50 to 59,Waikato,26.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-22,Male,70+,Waikato,26.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-22,Male,20 to 29,Waitemata,26.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-22,Female,40 to 49,Waitemata,26.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-22,Male,30 to 39,Waitemata,26.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-22,Female,20 to 29,Waitemata,26.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-22,Female,40 to 49,Waitemata,26.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-22,Female,50 to 59,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Male,50 to 59,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Female,20 to 29,Southern,26.0,Southern,168.790491527179,-45.44088589658808
+2020-03-22,Female,20 to 29,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Female,20 to 29,Canterbury,26.0,Canterbury,172.639847,-43.412548637733316
+2020-03-22,Female,60 to 69,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Male,60 to 69,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,Female,30 to 39,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,Male,50 to 59,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,,20 to 29,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,Female,40 to 49,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,Male,60 to 69,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,Female,20 to 29,Canterbury,26.0,Canterbury,172.639847,-43.412548637733316
+2020-03-22,Male,20 to 29,Auckland,26.0,Auckland,174.763336,-36.848461
+2020-03-22,Female,60 to 69,Canterbury,26.0,Canterbury,172.639847,-43.412548637733316
+2020-03-22,Female,20 to 29,Capital and Coast,26.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-22,Female,20 to 29,Capital and Coast,26.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-22,Male,40 to 49,Capital and Coast,26.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-22,Female,60 to 69,Capital and Coast,26.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-22,Male,40 to 49,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Female,15 to 19,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Male,40 to 49,Counties Manukau,26.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-22,Male,50 to 59,Capital and Coast,26.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-21,Male,60 to 69,Waikato,25.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-21,Male,30 to 39,Nelson Marlborough,25.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-21,Male,60 to 69,Nelson Marlborough,25.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-21,Male,20 to 29,Taranaki,25.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-21,Male,50 to 59,Taranaki,25.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-21,Female,60 to 69,Waitemata,25.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-21,Female,40 to 49,Waikato,25.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-21,Female,60 to 69,Waikato,25.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-21,Male,20 to 29,Wairarapa,25.0,Wairarapa,175.62730571256188,-41.099367501562206
+2020-03-21,Female,30 to 39,Wairarapa,25.0,Wairarapa,175.62730571256188,-41.099367501562206
+2020-03-21,Female,40 to 49,Counties Manukau,25.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-21,Female,40 to 49,MidCentral,25.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-21,Male,30 to 39,Bay of Plenty,25.0,Bay of Plenty,176.9199970169433,-38.09074918408386
+2020-03-21,Male,15 to 19,Counties Manukau,25.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-21,Male,60 to 69,Counties Manukau,25.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-21,Male,60 to 69,Counties Manukau,25.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-21,Male,60 to 69,Capital and Coast,25.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-21,Male,20 to 29,Canterbury,25.0,Canterbury,172.639847,-43.412548637733316
+2020-03-21,Female,60 to 69,Canterbury,25.0,Canterbury,172.639847,-43.412548637733316
+2020-03-21,Male,60 to 69,Canterbury,25.0,Canterbury,172.639847,-43.412548637733316
+2020-03-21,Female,50 to 59,Auckland,25.0,Auckland,174.763336,-36.848461
+2020-03-21,Male,20 to 29,Auckland,25.0,Auckland,174.763336,-36.848461
+2020-03-21,Female,20 to 29,Auckland,25.0,Auckland,174.763336,-36.848461
+2020-03-21,Male,50 to 59,Auckland,25.0,Auckland,174.763336,-36.848461
+2020-03-20,Female,60 to 69,Nelson Marlborough,24.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-20,Female,30 to 39,Waitemata,24.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-20,Male,70+,Waitemata,24.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-20,Male,40 to 49,Southern,24.0,Southern,168.790491527179,-45.44088589658808
+2020-03-20,Male,20 to 29,Southern,24.0,Southern,168.790491527179,-45.44088589658808
+2020-03-20,Female,60 to 69,Waikato,24.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-20,Female,20 to 29,Nelson Marlborough,24.0,Nelson Marlborough,173.1365595838253,-41.36159700793021
+2020-03-20,Female,50 to 59,Canterbury,24.0,Canterbury,172.639847,-43.412548637733316
+2020-03-20,Male,20 to 29,Canterbury,24.0,Canterbury,172.639847,-43.412548637733316
+2020-03-20,Male,60 to 69,Auckland,24.0,Auckland,174.763336,-36.848461
+2020-03-20,Male,50 to 59,Lakes,24.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-19,Female,20 to 29,MidCentral,23.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-19,Female,40 to 49,Waitemata,23.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-19,Male,30 to 39,Wairarapa,23.0,Wairarapa,175.62730571256188,-41.099367501562206
+2020-03-19,Female,60 to 69,Waikato,23.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-19,Female,70+,Waikato,23.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-19,Female,30 to 39,Southern,23.0,Southern,168.790491527179,-45.44088589658808
+2020-03-19,Male,40 to 49,MidCentral,23.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-19,Female,30 to 39,MidCentral,23.0,MidCentral,175.80993233656048,-40.3822419614352
+2020-03-19,Male,50 to 59,Hutt Valley,23.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-19,Male,40 to 49,Auckland,23.0,Auckland,174.763336,-36.848461
+2020-03-19,Male,30 to 39,Hawke's Bay,23.0,Hawke's Bay,176.79562895879565,-39.41115146884254
+2020-03-19,Male,40 to 49,Counties Manukau,23.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-19,Female,30 to 39,Capital and Coast,23.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-19,Male,60 to 69,Capital and Coast,23.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-19,Male,40 to 49,Auckland,23.0,Auckland,174.763336,-36.848461
+2020-03-19,Male,50 to 59,Hutt Valley,23.0,Hutt Valley,175.04954012042077,-41.16139514538811
+2020-03-18,Male,60 to 69,Southern,22.0,Southern,168.790491527179,-45.44088589658808
+2020-03-18,Male,40 to 49,Southern,22.0,Southern,168.790491527179,-45.44088589658808
+2020-03-18,Male,50 to 59,Canterbury,22.0,Canterbury,172.639847,-43.412548637733316
+2020-03-18,Male,50 to 59,Capital and Coast,22.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-18,Female,50 to 59,Auckland,22.0,Auckland,174.763336,-36.848461
+2020-03-17,Male,60 to 69,Waitemata,21.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-17,Male,20 to 29,Northland,21.0,Northland,173.83009540740687,-35.49463014100536
+2020-03-17,Male,60 to 69,Waitemata,21.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-17,Male,40 to 49,Southern,21.0,Southern,168.790491527179,-45.44088589658808
+2020-03-17,Male,15 to 19,Southern,21.0,Southern,168.790491527179,-45.44088589658808
+2020-03-17,Male,50 to 59,Auckland,21.0,Auckland,174.763336,-36.848461
+2020-03-17,Male,50 to 59,Lakes,21.0,Lakes,176.12282250433225,-38.65360467134959
+2020-03-17,Male,40 to 49,Capital and Coast,21.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-17,Female,40 to 49,Canterbury,21.0,Canterbury,172.639847,-43.412548637733316
+2020-03-17,Male,40 to 49,Auckland,21.0,Auckland,174.763336,-36.848461
+2020-03-17,Female,30 to 39,Counties Manukau,21.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-16,Male,40 to 49,Taranaki,20.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-16,Female,20 to 29,Waikato,20.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-16,Female,40 to 49,Taranaki,20.0,Taranaki,174.46839774754372,-39.314575536052004
+2020-03-16,Male,70+,Waikato,20.0,Waikato,175.35686358196216,-38.04961628388824
+2020-03-16,Male,30 to 39,Capital and Coast,20.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-16,Male,70+,Capital and Coast,20.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-16,Male,60 to 69,Auckland,20.0,Auckland,174.763336,-36.848461
+2020-03-15,Female,40 to 49,Waitemata,19.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-14,Male,60 to 69,Capital and Coast,18.0,Capital and Coast,174.89982751362456,-41.08856224471839
+2020-03-13,Female,30 to 39,Southern,17.0,Southern,168.790491527179,-45.44088589658808
+2020-03-12,Male,60 to 69,Counties Manukau,16.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-06,Female,40 to 49,Counties Manukau,10.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-04,Male,40 to 49,Counties Manukau,8.0,Counties Manukau,174.92997862280464,-37.18674182937392
+2020-03-04,Male,40 to 49,Waitemata,8.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-03-02,Female,30 to 39,Waitemata,6.0,Waitemata,174.5462036299528,-36.5645967331048
+2020-02-28,Female,40 to 49,Southern,3.0,Southern,168.790491527179,-45.44088589658808
+2020-02-28,Male,40 to 49,Southern,3.0,Southern,168.790491527179,-45.44088589658808
+2020-02-26,Female,60 to 69,Auckland,1.0,Auckland,174.763336,-36.848461
+,Male,70+,Counties Manukau,,Counties Manukau,174.92997862280464,-37.18674182937392
+,Female,70+,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,50 to 59,Southern,,Southern,168.790491527179,-45.44088589658808
 ,Female,50 to 59,Auckland,,Auckland,174.763336,-36.848461
-,Female,30 to 39,Canterbury,,Canterbury,172.639847,-43.41254864
-,Male,30 to 39,Canterbury,,Canterbury,172.639847,-43.41254864
-,Male,20 to 29,Waitemata,,Waitemata,174.5462036,-36.56459673
-,Female,30 to 39,Auckland,,Auckland,174.763336,-36.848461
-,Female,40 to 49,Canterbury,,Canterbury,172.639847,-43.41254864
-,Female,50 to 59,Capital and Coast,,Capital and Coast,174.8998275,-41.08856224
-,Female,60 to 69,Northland,,Northland,173.8300954,-35.49463014
-,Female,60 to 69,Waitemata,,Waitemata,174.5462036,-36.56459673
-,Female,60 to 69,Waitemata,,Waitemata,174.5462036,-36.56459673
-,Female,05 to 09,Waitemata,,Waitemata,174.5462036,-36.56459673
-,Female,40 to 49,Canterbury,,Canterbury,172.639847,-43.41254864
-,Male,20 to 29,MidCentral,,MidCentral,175.8099323,-40.38224196
-,Female,20 to 29,Waikato,,Waikato,175.3568636,-38.04961628
-,Female,20 to 29,Waitemata,,Waitemata,174.5462036,-36.56459673
-,Female,20 to 29,Bay of Plenty,,Bay of Plenty,176.919997,-38.09074918
-,Female,50 to 59,Nelson Marlborough,,Nelson Marlborough,173.1365596,-41.36159701
-,Female,60 to 69,Capital and Coast,,Capital and Coast,174.8998275,-41.08856224
-,Male,15 to 19,Hutt Valley,,Hutt Valley,175.0495401,-41.16139515
-,Female,15 to 19,Auckland,,Auckland,174.763336,-36.848461
-,Female,15 to 19,Canterbury,,Canterbury,172.639847,-43.41254864
-,Female,40 to 49,Capital and Coast,,Capital and Coast,174.8998275,-41.08856224
-,Male,60 to 69,Capital and Coast,,Capital and Coast,174.8998275,-41.08856224
-,Male,50 to 59,Waikato,,Waikato,175.3568636,-38.04961628
-,Male,20 to 29,Taranaki,,Taranaki,174.4683977,-39.31457554
 ,,50 to 59,Auckland,,Auckland,174.763336,-36.848461
+,Male,70+,Capital and Coast,,Capital and Coast,174.89982751362456,-41.08856224471839
+,Female,15 to 19,Auckland,,Auckland,174.763336,-36.848461
+,Female,15 to 19,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Female,40 to 49,Capital and Coast,,Capital and Coast,174.89982751362456,-41.08856224471839
+,Male,60 to 69,Capital and Coast,,Capital and Coast,174.89982751362456,-41.08856224471839
+,Male,50 to 59,Waikato,,Waikato,175.35686358196216,-38.04961628388824
+,Female,60 to 69,Capital and Coast,,Capital and Coast,174.89982751362456,-41.08856224471839
+,Male,15 to 19,Hutt Valley,,Hutt Valley,175.04954012042077,-41.16139514538811
+,Female,20 to 29,Bay of Plenty,,Bay of Plenty,176.9199970169433,-38.09074918408386
+,Female,50 to 59,Nelson Marlborough,,Nelson Marlborough,173.1365595838253,-41.36159700793021
+,Female,40 to 49,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Male,20 to 29,MidCentral,,MidCentral,175.80993233656048,-40.3822419614352
+,Female,20 to 29,Waikato,,Waikato,175.35686358196216,-38.04961628388824
+,Female,20 to 29,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,30 to 39,Auckland,,Auckland,174.763336,-36.848461
+,Female,30 to 39,Bay of Plenty,,Bay of Plenty,176.9199970169433,-38.09074918408386
+,Female,40 to 49,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Female,20 to 29,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Female,50 to 59,Capital and Coast,,Capital and Coast,174.89982751362456,-41.08856224471839
+,Female,60 to 69,Northland,,Northland,173.83009540740687,-35.49463014100536
+,Female,15 to 19,Taranaki,,Taranaki,174.46839774754372,-39.314575536052004
+,Female,60 to 69,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,60 to 69,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,05 to 09,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
 ,Female,50 to 59,Auckland,,Auckland,174.763336,-36.848461
-,Male,70+,Capital and Coast,,Capital and Coast,174.8998275,-41.08856224
-,Female,50 to 59,Southern,,Southern,168.7904915,-45.4408859
-,Male,70+,Counties Manukau,,Counties Manukau,174.9299786,-37.18674183
-,Female,70+,Waitemata,,Waitemata,174.5462036,-36.56459673
+,Female,40 to 49,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Male,30 to 39,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Female,30 to 39,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Male,20 to 29,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,40 to 49,Auckland,,Auckland,174.763336,-36.848461
+,Female,20 to 29,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Female,20 to 29,Canterbury,,Canterbury,172.639847,-43.412548637733316
+,Female,00 to 01,Counties Manukau,,Counties Manukau,174.92997862280464,-37.18674182937392
+,Male,60 to 69,Auckland,,Auckland,174.763336,-36.848461
+,Male,30 to 39,MidCentral,,MidCentral,175.80993233656048,-40.3822419614352
+,Female,70+,South Canterbury,,South Canterbury,170.65594967682526,-44.1468081869967
+,Male,15 to 19,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,20 to 29,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Male,20 to 29,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Female,70+,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,,10 to 14,Capital and Coast,,Capital and Coast,174.89982751362456,-41.08856224471839
+,Male,01 to 04,Counties Manukau,,Counties Manukau,174.92997862280464,-37.18674182937392
+,Male,50 to 59,Counties Manukau,,Counties Manukau,174.92997862280464,-37.18674182937392
+,Male,60 to 69,Counties Manukau,,Counties Manukau,174.92997862280464,-37.18674182937392
+,Female,20 to 29,Nelson Marlborough,,Nelson Marlborough,173.1365595838253,-41.36159700793021
+,Male,20 to 29,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Male,20 to 29,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Male,60 to 69,Auckland,,Auckland,174.763336,-36.848461
+,Female,20 to 29,Auckland,,Auckland,174.763336,-36.848461
+,Male,20 to 29,Auckland,,Auckland,174.763336,-36.848461
+,Male,20 to 29,Auckland,,Auckland,174.763336,-36.848461
+,Female,01 to 04,Southern,,Southern,168.790491527179,-45.44088589658808
+,Female,10 to 14,Southern,,Southern,168.790491527179,-45.44088589658808
+,Male,30 to 39,Waikato,,Waikato,175.35686358196216,-38.04961628388824
+,Female,10 to 14,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
+,Male,40 to 49,Waitemata,,Waitemata,174.5462036299528,-36.5645967331048
