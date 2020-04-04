@@ -1,0 +1,1 @@
+web: gunicorn Co-VID19Server:server
